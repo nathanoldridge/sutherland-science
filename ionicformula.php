@@ -12,6 +12,7 @@ $apolybool = array(0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 
 
 // CREATE ONE IONIC FORMULA AND NAME
+//working branch
 
 $ionicformula = ‘’;
 $ionicname = ‘’;
